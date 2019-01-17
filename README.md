@@ -3,7 +3,10 @@
 
 
 
+--------
+### 1月16日 更新：添加 第 27 题代码（Add Code for twenty seven questions）
 
+####  27. 移除元素（Remove Element）
 
 --------
 ### 11月21日 更新：添加README文件以及LeetCode前三题代码（Add README.md and Code for the first three questions）
